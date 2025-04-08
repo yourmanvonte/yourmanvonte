@@ -4,7 +4,7 @@
 - 📫 How to reach me devonte.mote@gmail.com, https://www.linkedin.com/in/devonte-mote-860a46106/
 - ⚡ Fun fact: I read roughly 12-15 books a year. 📚🪱🧠
 
-The overall goal is to develop the skills to become a Full Stack Web Developer and Software Engineer 🧑‍💻😁
+The overall goal is to constantly develop the skills to become a Full Stack Web Developer and Senior Software Engineer 🧑‍💻😁
 
 
 
